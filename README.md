@@ -1,6 +1,6 @@
 ## Firas Atoui
 
-Founder of [Vouch](https://use-vouch.com). I build the software that finds and vets founding engineers and first go-to-market hires for seed and Series A startups.
+Founder of [Vouch](https://use-vouch.com). I build the software that finds and vets founding engineers and first go-to-market hires for seed and Series A startups. 3x hackathon finalist.
 
 **Building now**
 
