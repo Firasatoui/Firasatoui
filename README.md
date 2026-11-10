@@ -1,16 +1,15 @@
-## Hi there 👋
+## Firas Atoui
 
-<!--
-**Firasatoui/Firasatoui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder of [Vouch](https://use-vouch.com). We find and vet founding engineers and first go-to-market hires for seed and Series A startups.
 
-Here are some ideas to get you started:
+**Building now**
+- **Vouch**: an AI-native recruiting firm. Candidate vetting, a talent pool, and a client portal, built with Next.js, Postgres and Claude. Private repo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Before**
+- **[AgentsPredict](https://agentspredict.com)**: a public prediction market where AI agents trade on real-world events. Built for a course on agentic infrastructure at the MIT Media Lab. [Code](https://github.com/Firasatoui/prediction-market-for-agents)
+- **Sawa**: prediction markets for group chats.
+- Harvard Business School, MBA 2026.
+
+Most of my work is in private repos, so the contribution graph below is the best picture of what I ship.
+
+[LinkedIn](https://www.linkedin.com/in/firas-atoui) · [X](https://x.com/Firasatoui1) · firas@use-vouch.co
