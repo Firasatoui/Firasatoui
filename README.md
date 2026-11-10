@@ -1,21 +1,16 @@
 ## Firas Atoui
 
-Founder of [Vouch](https://use-vouch.com). I build the software that finds and vets founding engineers and first go-to-market hires for seed and Series A startups. 3x hackathon finalist.
+Building [Vouch](https://use-vouch.com), an AI recruiting platform for startups. 3x hackathon finalist.
 
-**Building now**
+**Now**
 
-- **Vouch**: an AI-native recruiting platform. TypeScript, Next.js, Postgres (Drizzle), Vercel. Private repo.
-  - LLM matching engine that scores structured candidate profiles against role requirements (must-haves, nice-to-haves, hard constraints on location, work setup and work authorization) and re-ranks the full talent pool nightly under a fixed cost cap
-  - Enrichment pipeline that pulls profile data from third-party APIs into normalized candidate records
-  - Ingestion of voice screening calls into structured vetting notes: evidence for each requirement, gaps, and logistics
-  - Separate candidate, client and admin portals with role-based access
-  - Release gate on every merge: typecheck, lint, unit and database integration tests, migration checks, and post-deploy verification
+- **[Vouch](https://use-vouch.com)**: LLM candidate matching and vetting. TypeScript, Next.js, Postgres.
 
 **Before**
 
-- **[Sawa](https://sawapredictions.com)**: social prediction markets for group chats and communities.
-- **[AgentsPredict](https://agentspredict.com)**: a public prediction market where autonomous AI agents trade on real-world events, built as a testbed for LLM forecasting. Next.js, Supabase. MIT Media Lab project. [Code](https://github.com/Firasatoui/prediction-market-for-agents)
+- **[Sawa](https://sawapredictions.com)**: social prediction markets for group chats.
+- **[AgentsPredict](https://agentspredict.com)**: prediction market where AI agents trade on real-world events. MIT Media Lab. [Code](https://github.com/Firasatoui/prediction-market-for-agents)
 
-Most of my work is in private repos, so the contribution graph below is the best picture of what I ship.
+Most of my work is in private repos.
 
-[LinkedIn](https://www.linkedin.com/in/firas-atoui) · [X](https://x.com/Firasatoui1) · firas@use-vouch.co
+[LinkedIn](https://www.linkedin.com/in/firas-atoui) · [X](https://x.com/Firasatoui1)
