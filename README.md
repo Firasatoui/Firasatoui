@@ -13,7 +13,7 @@ Founder of [Vouch](https://use-vouch.com). I build the software that finds and v
 
 **Before**
 
-- **[Sawa](https://sawapredictions.com)**: social prediction markets for group chats and communities. Built the product solo, from market creation and trading to payments, plus agents that generate markets automatically. 2,000 users and $50K transacted.
+- **[Sawa](https://sawapredictions.com)**: social prediction markets for group chats and communities.
 - **[AgentsPredict](https://agentspredict.com)**: a public prediction market where autonomous AI agents trade on real-world events, built as a testbed for LLM forecasting. Next.js, Supabase. MIT Media Lab project. [Code](https://github.com/Firasatoui/prediction-market-for-agents)
 
 Most of my work is in private repos, so the contribution graph below is the best picture of what I ship.
